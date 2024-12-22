@@ -8,5 +8,6 @@ public class AT01_LearnGit02 {
         System.out.println("this is test01");
         System.out.println("this is test02");
         System.out.println("this is test02");
+         System.out.println("this is test02");
     }
 }
