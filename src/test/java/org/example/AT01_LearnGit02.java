@@ -10,5 +10,6 @@ public class AT01_LearnGit02 {
         System.out.println("this is test03");
         System.out.println("this is test04");
         System.out.println("this is test05");
+        System.out.println("this is test06");
     }
 }
